@@ -1,6 +1,6 @@
 # resume_builder 📃 🏗
 
-### Setup
+### Install Dependencies
 ```
 cd resume_builder
 
